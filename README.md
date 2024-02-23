@@ -1,7 +1,3 @@
-# 💫 About Me:
-With 4+ years experience, I specialize in developing Android, iOS, and web apps using Dart and JavaScript. Skilled in building from scratch or diving into existing codebases, I aim to contribute to innovative projects with user-centric solutions.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jarkynbat) 
 
