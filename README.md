@@ -1,35 +1,4 @@
-# Hi there 👋, I'm [Your Name]
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jarkynbekbat&label=Profile%20views&color=0e75b6&style=flat" alt="Jarkynbekbat" /> </p>
-
-### I'm a [Your Title] passionate about [Your Passion].
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Your Skill]**
-- 👯 I’m looking to collaborate on **[Project Idea]**
-- 🤔 I’m looking for help with **[Your Challenge]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Contact]**
-- 😄 Pronouns: **he/him, she/her, etc.**
-- ⚡ Fun fact: **[A fun fact about you]**
-
----
-
-## 🔗 Connect with me
-
-<p align="left">
-<a href="https://twitter.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-username" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-username" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-user-id/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-username" height="30" width="40" /></a>
-<a href="https://codepen.io/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="your-username" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="your-username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="your-username" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-username" height="30" width="40" /></a>
-</p>
-
----
+# Hi there 👋, I'm Zach
 
 ## 💻 Tech Stack
 
